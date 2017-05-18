@@ -3,8 +3,8 @@
 #include "E101.h"
 
 //sets initial variables
-float kd = 5;
-float kp = 0.25;
+float kd = 2.5;
+float kp = 0.5;
 float error;
 float previous_error;
 float proportional_signal;
